@@ -6,5 +6,13 @@
     {
         "name": "banner-2",
         "url": "https://geocomuy.github.io/banner-images/banner-2.png"
+    },
+    {
+        "name": "banner-3",
+        "url": "https://geocomuy.github.io/banner-images/banner-3.png"
+    },
+    {
+        "name": "banner-4",
+        "url": "https://geocomuy.github.io/banner-images/banner-4.png"
     }
 ]
